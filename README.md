@@ -6,7 +6,7 @@ Este repositorio contiene una colección de programas desarrollados en Python ut
 ## Estructura del repositorio
 - **notebooks/**: Contiene notebooks organizados por temática.
 - **scripts/**: Archivos `.py` con funciones y utilidades.
-- **datasets/**: Conjunto de datos utilizados en algunos proyectos.
+- **dataset/**: Conjunto de datos utilizados en algunos proyectos.
 - **README.md**: Descripción del repositorio y cómo utilizarlo.
 
 ## Requisitos
